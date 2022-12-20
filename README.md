@@ -17,7 +17,10 @@
 </div><br>                                  
 
 
-##_3. Confusion Matrix_**
+##_3. Snapshots_**
 <div align='center'>
   <img src='./media/WhatsApp Image 2022-12-18 at 9.36.17 PM.jpeg' alt='Getting the Data' />
+   <img src='./media/Screenshot 2022-12-20 at 12.33.23 PM.jpeg' alt='Getting the Data' />
+    <img src='./media/poses2.jpeg' alt='Getting the Data' />
+    
 </div><br> 
