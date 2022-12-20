@@ -11,7 +11,7 @@
 </div><br>
 
 
- ##_2. Confusion Matrix_**
+ ##_3. Confusion Matrix_**
 <div align='center'>
   <img src='./media/confusion matrix.png' alt='Getting the Data' />
 </div><br>                                  
