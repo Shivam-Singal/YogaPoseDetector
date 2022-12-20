@@ -5,11 +5,10 @@
 <div align='center'>
   <img src='./media/Picture 1.png' alt='Getting the Data />
 </div><br>
-                                               
-## **2. Description**
-                                               
+                                        
+## **1. Methodology**                                              
  <div align='center'>
-  <img src='./media/getting_the_data.png' alt='Getting the Data />
+  <img src='./media/confusion matrix.png' alt='Getting the Data />
 </div><br>
 
 ## **3. Input / Output**
